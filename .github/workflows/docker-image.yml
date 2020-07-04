@@ -11,7 +11,7 @@ jobs:
   build:
     env:
       IDENTIFICACAO_ALUNO: aluno18   
-      DIRETORIO_WEBAPP: ASPNET5-Preview5_Docker__SiteContagem
+      DIRETORIO_WEBAPP: SiteContagem
 
     runs-on: ubuntu-latest
 
